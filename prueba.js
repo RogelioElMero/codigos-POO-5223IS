@@ -39,5 +39,5 @@ alert("guardado exitosamente");
 }
 
 function mostrar(){
-	alert("buenas tardes, mi nombre es "+persona.nombre+" "+nombre.apellido+" y mi edad es de "+persona.edad+" años :D");
+	alert("buenas tardes, mi nombre es "+persona.nombre+" "+persona.apellido+" y mi edad es de "+persona.edad+" años :D");
 }
